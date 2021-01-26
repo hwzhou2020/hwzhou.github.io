@@ -2,11 +2,8 @@
 main:
   - title: "Projects"
     url: /project/
-    
-  - title: "CV"
-    url: /cv/
-    
+       
   - title: "Vonlunteer work"
-    url: /Volunteer work/
+    url: /OSASPIE/
     
 
