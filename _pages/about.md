@@ -16,6 +16,7 @@ As a master student, I am currently working on the transport of intensity equati
 
 Apart from academics, I am a fan of jogging, table tennis, and photography. Running best records (1) 400m: 61s (2013); (2) 2000m: 7min50s (2016). Table tennis: most active in 2003-2009. Photography: an amateur level, a recent hobby.
 
+
 # Education and Experience
 ### Graduate Assistant & M.S. in Electro-Optics at University of Dayton
 - Aug. 2019 - Present
@@ -69,8 +70,8 @@ GPA: 3.90/4, 89.1/100
 7. P. P. Banerjee, U. Abeywickrema, **H. Zhou**, M. S. Alam, G. Nehmetallah, J. Khoury, L. Cao, “Taking correlation from 2D to 3D: optical methods and performance evaluation,” Proc. SPIE 10995, 10995-10 (2019).
 8. **H. Zhou**, U. Abeywickrema, B. Bordbar, L. Cao, P. P. Banerjee, “Correlation of holograms for surface characterization for diffuse objects,” Proc. SPIE 10943, 10943-3 (2019).
 
-# Volunteer Work
 
+# Volunteer Work
 - President of Optical Society of America (OSA) student chapter at University of Dayton (Sept. 2020 - Present).
 - President of Society of Photographic Instrumentation Engineering (SPIE) student chapter at University of Dayton (Sept. 2020 - Present).
 - Reviewer for Applied Optics, Optics Express, Optics Communication
