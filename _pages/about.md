@@ -17,10 +17,9 @@ As a master student, I am currently working on the transport of intensity equati
 Apart from academics, I am a fan of jogging, table tennis, and photography. Running best records (1) 400m: 61s (2013); (2) 2000m: 7min50s (2016). Table tennis: most active in 2003-2009. Photography: an amateur level, a recent hobby.
 
 # Education and Experience
-
 ### Graduate Assistant & M.S. in Electro-Optics at University of Dayton
 - Aug. 2019 - Present
-Graduate assistant to **Prof. Partha Banerjee** at the University of Dayton. Working on digital holography and transport of intensity. Also, a graduate student at the Department of Electro-Optics and Photonics.
+- Graduate assistant to **Prof. Partha Banerjee** at the University of Dayton. Working on digital holography and transport of intensity. Also, a graduate student at the Department of Electro-Optics and Photonics.
 GPA: 4.0/4.0 
 
 ### Research Assistant at Tsinghua University
@@ -37,7 +36,6 @@ GPA: 4.0/4.0 
 - Undergraduate advisor: **Prof. Wenxi Liang**
 GPA: 3.90/4, 89.1/100
 
-**Bold** and _Italic_ and `Code` text
 
 # Awards and Scholarship
 - Dean’s Fellowship of University of Dayton
@@ -48,9 +46,9 @@ GPA: 3.90/4, 89.1/100
 - National Endeavor Scholarship Award of China
 - Freshman Scholarship of School of Engineering Sciences
 
+
 # Publications
-## Publications / Pre-prints / Academic Events
-[Google Scholar link](https://scholar.google.com/citations?hl=en&authuser=1&user=feZDslgAAAAJ)
+### Publications / Pre-prints / Academic Events
 
 - Journal Papers
 
